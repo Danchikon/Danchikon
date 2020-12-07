@@ -1,4 +1,4 @@
-![header](assets/coder.gif)
+![header](https://github.com/Danchikon/Danchikon/blob/main/coder.gif)
 
 ## I'm Software Engeneer
 
